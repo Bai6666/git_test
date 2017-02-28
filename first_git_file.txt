@@ -1,0 +1,2 @@
+first git i make
+第一次使用git，好紧张
